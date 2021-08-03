@@ -175,38 +175,38 @@ img{
 }
 
 /*=====================MainSections===============*/
-#msection3{
+.msection3{
 	border-top:1px solid grey;
 }
 
-#msection3 img{
+.msection3 img{
 	display:inline;
 	width:250px;
 	height:150px;
 }
 
-#msection3 #section3text{
+.msection3 #section3text{
 	margin-left:5%;
 }
 
-#msection3 #section3text a, #msection3 #section3text p{
+.msection3 #section3text a, .msection3 #section3text p{
 	color:black;
 	margin:3px;
 }
 
-#msection3 #section3text a:hover{
+.msection3 #section3text a:hover{
 	color:rgb(260,45,52);
 }
 
-#msection3 #section3text p, #msection3 #section3text p a{
+.msection3 #section3text p, .msection3 #section3text p a{
 	font-size:14px;
 }
 
-#msection3 #section3text p a{
+.msection3 #section3text p a{
 	color:rgb(199,45,52);
 }
 
-#msection3 #section3text p a:hover{
+.msection3 #section3text p a:hover{
 	color:rgb(260,45,52);
 	text-decoration:underline;
 }
